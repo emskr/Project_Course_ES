@@ -1,5 +1,5 @@
 # Project_Course_ES
-This GitHub repository contains the script and data used in the project of the Project Course: Bioinformatics of Big Data.
+This GitHub repository contains the R code and data used in the project of the Project Course: Bioinformatics of Big Data.
 
 The data files in this repository are named 'edgeR_normcounts_count.tabular', which consist of the normalized and log-transformed gene read counts, and "edgeR_normcounts_annotations.tabular", which includes the gene IDs and their annotations (gene names) of the generated gene counts in the previous file.
 
